@@ -36,5 +36,5 @@ docker run -d -p 5000:5000 -v registry-data:/var/lib/registry --name registry re
 - Go to **http://REGISTRY-HOST-IP:5000/v2/_catalog/** and observe that our repositories are still there.
 <br>
 
-[Next > ]()
-[Previous > ]()
+[Next > Securing Registry with Basic Auth](https://github.com/QuickDevNotes/Docker-Labs/blob/master/registry/04-securing-registry-with-basic-auth.md)
+[Previous > Pulling an Image](https://github.com/QuickDevNotes/Docker-Labs/blob/master/registry/02-pull-an-image-from-registry.md)

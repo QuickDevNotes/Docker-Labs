@@ -82,4 +82,4 @@ docker push <REGISTRY-HOST-IP>:5000/my-busybox
 ```
 <br>
 
-[Next > Pull an Image from Registry Server]()
+[Next > Pulling an Image](https://github.com/QuickDevNotes/Docker-Labs/blob/master/registry/02-pull-an-image-from-registry.md)

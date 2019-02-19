@@ -1,6 +1,6 @@
-# Pulling the Image from Registry Server
+# Pulling an Image from Registry Server
 
-In this lab session we will learn about how to add our _insecure_ registry to different Docker hosts and pull an image.
+In this lab session, we will learn about how to add our _insecure_ registry to different Docker hosts and pull an image.
 
 ## The First Attempt
 
@@ -34,5 +34,5 @@ docker pull <REGISTRY-HOST-IP>:5000/my-busybox
 ```
 <br>
 
-[Next > ]()
-[Previous > ]()
+[Next > Preserving registry data](https://github.com/QuickDevNotes/Docker-Labs/blob/master/registry/03-preserving-registry-data.md)
+[Previous > Running a Registry Server](https://github.com/QuickDevNotes/Docker-Labs/blob/master/registry/01-running-first-registry-server.md)

@@ -56,5 +56,5 @@ docker login localhost:5000
 - Retry to pull the image now
 <br>
 
-[Next > ]()
-[Previous > ]()
+[Next > Adding a User Interface](https://github.com/QuickDevNotes/Docker-Labs/blob/master/registry/05-add-registry-UI.md)
+[Previous > Preserving registry data](https://github.com/QuickDevNotes/Docker-Labs/blob/master/registry/03-preserving-registry-data.md)
