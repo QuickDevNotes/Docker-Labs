@@ -31,3 +31,4 @@ Congratulations! We have successfully setup our environment for the lab sessions
 - [Preserving registry data in a named Docker Volume](https://github.com/QuickDevNotes/Docker-Labs/blob/master/registry/03-preserving-registry-data.md)
 - [Securing the Registry with Basic-Auth (htpasswd)](https://github.com/QuickDevNotes/Docker-Labs/blob/master/registry/04-securing-registry-with-basic-auth.md)
 - [Adding a User Interface to Registry](https://github.com/QuickDevNotes/Docker-Labs/blob/master/registry/05-add-registry-UI.md)
+- [Docker Registry as Pull Through Cache](https://github.com/QuickDevNotes/Docker-Labs/tree/master/registry/registry-pull-through-cache)
